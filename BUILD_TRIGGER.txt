@@ -1,0 +1,1 @@
+This file triggers the GitHub Actions release APK build. The application source is unchanged.
